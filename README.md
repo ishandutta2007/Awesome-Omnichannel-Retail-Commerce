@@ -50,7 +50,7 @@
 
 ## 🔓 Open-Source GitHub Projects 📦
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Odoo eCommerce](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   **Open-source business suite with integrated e-commerce**, LGPL-3.0 licensed. AI website builder, drag-and-drop product pages, real-time stock management, click-and-collect, and integrated POS. Free forever with domain name included. 🏢
